@@ -16,7 +16,7 @@ Showing a summarative view of all devices and their respective factors, enabling
 Showing the status of devices from a specific hospital entity, (filtered by vendor or server). The line chart represents the number of incoming messages by hour.
 ![](https://github.com/esteechenyiwei/Vitalcore/blob/master/Device%20View%20Graph.png)
 
-![https://github.com/esteechenyiwei/Vitalcore/blob/master/Device%20View%20Graph%202.png]
+![](https://github.com/esteechenyiwei/Vitalcore/blob/master/Device%20View%20Graph%202.png)
 
 ### Nurse View
 
